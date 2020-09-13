@@ -1,0 +1,8 @@
+certifi
+chardet
+idna
+parse
+requests
+urllib3
+tqdm
+bs4
